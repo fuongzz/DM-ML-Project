@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy
+python-calamine
+openpyxl
+scikit-learn>=1.5
+lightgbm>=4.3
+scipy
+joblib
+unidecode
+tabulate
+matplotlib
+jupyter

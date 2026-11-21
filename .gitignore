@@ -1,0 +1,30 @@
+# Dữ liệu doanh nghiệp — không bao giờ commit
+data/
+*.xlsx
+*.xls
+*.pkl
+*.sqlite
+*.joblib
+
+# Kết quả chạy
+reports/*
+!reports/.gitkeep
+
+# Context agent và tài liệu tham khảo — chỉ giữ trên máy
+/AGENTS.md
+/CLAUDE.md
+/tham_khao/
+
+# Bí mật
+.env
+.env.*
+
+# Python / hệ thống
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# Bản đóng gói để nộp (sinh lại khi cần)
+dist/
