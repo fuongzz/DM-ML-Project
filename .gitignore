@@ -28,3 +28,6 @@ __pycache__/
 
 # Bản đóng gói để nộp (sinh lại khi cần)
 dist/
+
+# Ảnh render và file tạm khi dựng báo cáo
+/tmp/

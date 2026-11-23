@@ -1,0 +1,4 @@
+# Chỉ cần khi dựng hoặc kiểm tra PDF, không cần cho phần mô hình.
+reportlab>=4.0
+pypdf>=5
+PyMuPDF>=1.24,<2
